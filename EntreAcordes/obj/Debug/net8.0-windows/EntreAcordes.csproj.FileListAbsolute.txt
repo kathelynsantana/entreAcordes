@@ -41,3 +41,4 @@ C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\E
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.Sobrenos.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.Musicas.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadastarCan.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.sourcelink.json

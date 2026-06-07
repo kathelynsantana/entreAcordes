@@ -57,5 +57,9 @@ namespace EntreAcordes
 
         }//Fim do Link de acesso à Tela de Músicas
 
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }//Fim da Tela "Sobre Nós"
 }//Fim do Projeto Entre Acordes

@@ -35,6 +35,14 @@ namespace EntreAcordes
 
         }//Fim do Botão para acessar a Tela de Cadastro do Inscrito
 
+        //Link de acesso à Tela Sobre Nós
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            sobre = new Sobrenos();
+            sobre.ShowDialog();
+
+        }//Fim do Link de acesso à Tela Sobre Nós
+
         //Link de acesso à Tela de Músicas
         private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
@@ -43,13 +51,5 @@ namespace EntreAcordes
 
         }//Fim do Link de acesso à Tela de Músicas
 
-        //Link de acesso à Tela "Sobre Nós"
-        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            //Redirecionando para a Área "Sobre Nós"...
-            sobre = new Sobrenos();
-            sobre.ShowDialog();
-
-        }//Fim do Link de acesso à Tela "Sobre Nós"
     }//Fim da Tela Homepage
 }//Fim do Projeto Entre Acordes

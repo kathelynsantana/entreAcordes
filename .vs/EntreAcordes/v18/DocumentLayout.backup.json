@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daoinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daoinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\cadastrarins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\cadastrarins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\sobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\sobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\cadastrarins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\cadastrarins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daomusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daomusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daoinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daoinscrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daocantor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daocantor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daogeneromusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daogeneromusical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathe\\onedrive\\desktop\\cursos\\curso de ti (ti23t)\\software - allan\\c#\\entre acordes\\programa\\entreacordes\\entreacordes\\daocantor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\daocantor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "DAOCantor.cs",
               "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOCantor.cs",
               "RelativeDocumentMoniker": "EntreAcordes\\DAOCantor.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DAOGeneroMusical.cs",
               "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOGeneroMusical.cs",
               "RelativeDocumentMoniker": "EntreAcordes\\DAOGeneroMusical.cs",
               "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOGeneroMusical.cs",
               "RelativeToolTip": "EntreAcordes\\DAOGeneroMusical.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T21:12:42.834Z",
               "IsPinned": true,
@@ -70,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "DAOInscrito.cs",
               "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOInscrito.cs",
               "RelativeDocumentMoniker": "EntreAcordes\\DAOInscrito.cs",
-              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOInscrito.cs",
-              "RelativeToolTip": "EntreAcordes\\DAOInscrito.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOInscrito.cs*",
+              "RelativeToolTip": "EntreAcordes\\DAOInscrito.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T21:12:57.534Z",
               "IsPinned": true,
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DAOMusica.cs",
               "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\DAOMusica.cs",
               "RelativeDocumentMoniker": "EntreAcordes\\DAOMusica.cs",
@@ -97,50 +97,49 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs",
-              "RelativeDocumentMoniker": "EntreAcordes\\Login.cs",
-              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs [Projeto]",
-              "RelativeToolTip": "EntreAcordes\\Login.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T21:13:45.396Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sobrenos.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Sobrenos.cs",
-              "RelativeDocumentMoniker": "EntreAcordes\\Sobrenos.cs",
-              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Sobrenos.cs [Projeto]",
-              "RelativeToolTip": "EntreAcordes\\Sobrenos.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T21:39:02.68Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs",
-              "RelativeDocumentMoniker": "EntreAcordes\\Login.cs",
-              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs",
-              "RelativeToolTip": "EntreAcordes\\Login.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T21:17:14.788Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\Login.cs",
+              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\Login.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\Login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T22:53:54.884Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastrarIns.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\CadastrarIns.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\CadastrarIns.cs",
+              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\CadastrarIns.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\CadastrarIns.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T22:49:57.379Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastrarIns.cs",
+              "DocumentMoniker": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\CadastrarIns.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\CadastrarIns.cs",
+              "ToolTip": "C:\\Users\\kathe\\OneDrive\\Desktop\\Cursos\\Curso de TI (TI23T)\\Software - Allan\\C#\\Entre Acordes\\Programa\\EntreAcordes\\EntreAcordes\\CadastrarIns.cs",
+              "RelativeToolTip": "EntreAcordes\\CadastrarIns.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T22:50:19.298Z",
+              "EditorCaption": ""
             }
           ]
         }
