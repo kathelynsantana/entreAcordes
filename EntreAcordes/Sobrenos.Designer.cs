@@ -36,10 +36,8 @@
             linkLabel1 = new LinkLabel();
             button1 = new Button();
             panel2 = new Panel();
-            label2 = new Label();
             label1 = new Label();
             panel1.SuspendLayout();
-            panel2.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -136,21 +134,10 @@
             // 
             panel2.BackColor = Color.AntiqueWhite;
             panel2.BorderStyle = BorderStyle.FixedSingle;
-            panel2.Controls.Add(label2);
             panel2.Location = new Point(41, 148);
             panel2.Name = "panel2";
             panel2.Size = new Size(519, 458);
             panel2.TabIndex = 3;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Location = new Point(23, 38);
-            label2.Name = "label2";
-            label2.Size = new Size(1296, 15);
-            label2.TabIndex = 0;
-            label2.Text = resources.GetString("label2.Text");
-            label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label1
             // 
@@ -176,8 +163,6 @@
             Text = "Entre Acordes - Sobre Nós";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            panel2.ResumeLayout(false);
-            panel2.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -191,7 +176,6 @@
         private Button button1;
         private Panel panel2;
         private Label label1;
-        private Label label2;
         private Button button2;
     }
 }

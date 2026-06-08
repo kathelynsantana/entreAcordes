@@ -19,6 +19,7 @@ namespace EntreAcordes
         //Variáveis
         DAOInscrito inscrito;
         CadastrarIns cadIns;
+        LoginAdm loginAdm;
 
         public Login()
         {
@@ -35,6 +36,15 @@ namespace EntreAcordes
             cadIns.ShowDialog();
 
         }//Fim do Link de acesso à Tela de Cadastro de Inscrito
+
+        //Link de acesso à Tela de Login(ADM)
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            //Redirecionando para a Área de Login (ADM)...
+            loginAdm = new LoginAdm();
+            loginAdm.ShowDialog();
+
+        }//Fim do Link de acesso à Tela de Login(ADM)
 
         //Botão de Login
         private void button1_Click(object sender, EventArgs e)
@@ -63,5 +73,6 @@ namespace EntreAcordes
             this.Close();
 
         }//Fim do Botão de Voltar
+
     }//Fim da Tela de Login
 }//Fim do Projeto Entre Acordes

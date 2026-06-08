@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EntreAcordes
 {
-    public partial class CadastrarMus : Form
+    public partial class MusicaAdm : Form
     {
-        public CadastrarMus()
+        public MusicaAdm()
         {
             InitializeComponent();
         }

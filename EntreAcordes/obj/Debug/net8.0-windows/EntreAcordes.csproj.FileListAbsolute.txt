@@ -1,9 +1,5 @@
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.csproj.AssemblyReference.cache
-C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.AtualizarIns.resources
-C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.AtualizarMus.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadastrarIns.resources
-C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadastrarMus.resources
-C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.ExcluirCan.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.ExcluirIns.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.ExcluirMus.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.Homepage.resources
@@ -42,3 +38,8 @@ C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\E
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.Musicas.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadastarCan.resources
 C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.sourcelink.json
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.Cantor.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.HomepageAdm.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.LoginAdm.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.MusicaAdm.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\EntreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.SobreNosAdm.resources

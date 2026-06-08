@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntreAcordes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7490b41fbc9dfd54015709f7405cef3c62966c21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed222b000a09720030e387613a9b7a30f8752d41")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntreAcordes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntreAcordes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

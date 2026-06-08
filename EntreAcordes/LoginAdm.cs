@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EntreAcordes
 {
-    public partial class ExcluirCan : Form
+    public partial class LoginAdm : Form
     {
-        public ExcluirCan()
+        public LoginAdm()
         {
             InitializeComponent();
         }

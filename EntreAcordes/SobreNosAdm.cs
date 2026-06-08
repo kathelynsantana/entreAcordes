@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EntreAcordes
 {
-    public partial class AtualizarMus : Form
+    public partial class SobreNosAdm : Form
     {
-        public AtualizarMus()
+        public SobreNosAdm()
         {
             InitializeComponent();
         }

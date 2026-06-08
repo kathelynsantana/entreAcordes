@@ -53,45 +53,53 @@
             // 
             // linkLabel1
             // 
+            linkLabel1.ActiveLinkColor = Color.FromArgb(68, 3, 3);
             linkLabel1.AutoSize = true;
             linkLabel1.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel1.LinkBehavior = LinkBehavior.NeverUnderline;
-            linkLabel1.Location = new Point(341, 443);
+            linkLabel1.LinkColor = Color.FromArgb(68, 3, 3);
+            linkLabel1.Location = new Point(349, 443);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(127, 20);
             linkLabel1.TabIndex = 0;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Faça login agora!";
+            linkLabel1.VisitedLinkColor = Color.FromArgb(68, 3, 3);
             linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // button1
             // 
+            button1.BackColor = Color.FromArgb(131, 78, 44);
+            button1.FlatStyle = FlatStyle.Popup;
             button1.Font = new Font("Segoe UI Semibold", 10.25F, FontStyle.Bold);
-            button1.Location = new Point(352, 364);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(360, 364);
             button1.Name = "button1";
             button1.Size = new Size(104, 29);
             button1.TabIndex = 1;
             button1.Text = "Cadastrar-se";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // button2
             // 
+            button2.BackColor = Color.FromArgb(91, 41, 16);
             button2.FlatStyle = FlatStyle.Popup;
             button2.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
+            button2.ForeColor = Color.White;
             button2.Location = new Point(536, 8);
             button2.Name = "button2";
             button2.Size = new Size(40, 41);
             button2.TabIndex = 2;
             button2.Text = "↩";
-            button2.UseVisualStyleBackColor = true;
+            button2.UseVisualStyleBackColor = false;
             button2.Click += button2_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Franklin Gothic Medium", 18F, FontStyle.Bold);
-            label1.Location = new Point(287, 56);
+            label1.Location = new Point(295, 56);
             label1.Name = "label1";
             label1.Size = new Size(238, 30);
             label1.TabIndex = 15;
@@ -101,7 +109,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label5.Location = new Point(306, 118);
+            label5.Location = new Point(314, 118);
             label5.Name = "label5";
             label5.Size = new Size(191, 20);
             label5.TabIndex = 17;
@@ -111,7 +119,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label4.Location = new Point(303, 97);
+            label4.Location = new Point(311, 97);
             label4.Name = "label4";
             label4.Size = new Size(195, 20);
             label4.TabIndex = 16;
@@ -121,7 +129,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label2.Location = new Point(287, 168);
+            label2.Location = new Point(295, 168);
             label2.Name = "label2";
             label2.Size = new Size(55, 20);
             label2.TabIndex = 18;
@@ -131,7 +139,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label3.Location = new Point(287, 207);
+            label3.Location = new Point(295, 207);
             label3.Name = "label3";
             label3.Size = new Size(107, 20);
             label3.TabIndex = 19;
@@ -141,7 +149,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label6.Location = new Point(287, 246);
+            label6.Location = new Point(295, 246);
             label6.Name = "label6";
             label6.Size = new Size(71, 20);
             label6.TabIndex = 20;
@@ -159,7 +167,7 @@
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label8.Location = new Point(288, 322);
+            label8.Location = new Point(296, 322);
             label8.Name = "label8";
             label8.Size = new Size(55, 20);
             label8.TabIndex = 23;
@@ -169,7 +177,7 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label9.Location = new Point(287, 285);
+            label9.Location = new Point(295, 285);
             label9.Name = "label9";
             label9.Size = new Size(56, 20);
             label9.TabIndex = 22;
@@ -178,23 +186,24 @@
             // textBox1
             // 
             textBox1.BorderStyle = BorderStyle.FixedSingle;
-            textBox1.Location = new Point(344, 167);
+            textBox1.Location = new Point(352, 167);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(166, 23);
             textBox1.TabIndex = 26;
             // 
             // pictureBox1
             // 
-            pictureBox1.Location = new Point(-7, -1);
+            pictureBox1.BackgroundImage = (Image)resources.GetObject("pictureBox1.BackgroundImage");
+            pictureBox1.Location = new Point(-12, -2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(228, 512);
+            pictureBox1.Size = new Size(259, 512);
             pictureBox1.TabIndex = 29;
             pictureBox1.TabStop = false;
             // 
             // textBox2
             // 
             textBox2.BorderStyle = BorderStyle.FixedSingle;
-            textBox2.Location = new Point(344, 282);
+            textBox2.Location = new Point(352, 282);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(166, 23);
             textBox2.TabIndex = 32;
@@ -202,7 +211,7 @@
             // textBox3
             // 
             textBox3.BorderStyle = BorderStyle.FixedSingle;
-            textBox3.Location = new Point(344, 320);
+            textBox3.Location = new Point(352, 320);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(166, 23);
             textBox3.TabIndex = 33;
@@ -210,7 +219,7 @@
             // maskedTextBox1
             // 
             maskedTextBox1.BorderStyle = BorderStyle.FixedSingle;
-            maskedTextBox1.Location = new Point(395, 205);
+            maskedTextBox1.Location = new Point(403, 205);
             maskedTextBox1.Mask = "00/00/0000";
             maskedTextBox1.Name = "maskedTextBox1";
             maskedTextBox1.Size = new Size(115, 23);
@@ -220,7 +229,7 @@
             // maskedTextBox2
             // 
             maskedTextBox2.BorderStyle = BorderStyle.FixedSingle;
-            maskedTextBox2.Location = new Point(358, 244);
+            maskedTextBox2.Location = new Point(366, 244);
             maskedTextBox2.Mask = "(99) 00000-0000";
             maskedTextBox2.Name = "maskedTextBox2";
             maskedTextBox2.Size = new Size(152, 23);
@@ -230,7 +239,7 @@
             // 
             label10.AutoSize = true;
             label10.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label10.Location = new Point(322, 420);
+            label10.Location = new Point(330, 420);
             label10.Name = "label10";
             label10.Size = new Size(162, 21);
             label10.TabIndex = 36;
@@ -241,7 +250,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(584, 503);
+            ClientSize = new Size(584, 499);
             Controls.Add(label10);
             Controls.Add(maskedTextBox2);
             Controls.Add(maskedTextBox1);

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EntreAcordes
 {
-    public partial class AtualizarIns : Form
+    public partial class Cantor : Form
     {
-        public AtualizarIns()
+        public Cantor()
         {
             InitializeComponent();
         }
