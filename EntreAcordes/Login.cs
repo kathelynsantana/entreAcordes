@@ -62,7 +62,7 @@ namespace EntreAcordes
             string senha = maskedTextBox2.Text;
 
             //Chamando o método de validação de login...
-            inscrito.loginInscrito(maskedTextBox1.Text, maskedTextBox2.Text);
+            this.inscrito.loginInscrito(maskedTextBox1.Text, maskedTextBox2.Text);
 
         }//Fim do Botão de Login
 

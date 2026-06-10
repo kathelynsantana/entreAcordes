@@ -38,7 +38,6 @@ namespace EntreAcordes
             {
                 //Abrindo a conexão com o banco de dados...
                 this.conexao.Open();
-                MessageBox.Show("Conectado com sucesso!");
             }
             catch (Exception erro)
             {

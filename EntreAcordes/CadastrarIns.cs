@@ -89,5 +89,6 @@ namespace EntreAcordes
             this.Close();
 
         }//Fim do Botão de Voltar
+
     }//Fim da Tela de Cadastro do Inscrito
 }//Fim do Projeto Entre Acordes

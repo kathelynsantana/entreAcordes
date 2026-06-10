@@ -44,6 +44,7 @@ namespace EntreAcordes
         //Link de acesso à Tela de Homepage
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            //Redirecionando para a tela Homepage...
             home = new Homepage();
             home.ShowDialog();
 
@@ -61,5 +62,6 @@ namespace EntreAcordes
         {
 
         }
+
     }//Fim da Tela "Sobre Nós"
 }//Fim do Projeto Entre Acordes

@@ -28,12 +28,188 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "SobreNosAdm";
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SobreNosAdm));
+            label1 = new Label();
+            panel2 = new Panel();
+            pictureBox1 = new PictureBox();
+            panel1 = new Panel();
+            linkLabel4 = new LinkLabel();
+            button2 = new Button();
+            button1 = new Button();
+            linkLabel3 = new LinkLabel();
+            linkLabel2 = new LinkLabel();
+            linkLabel1 = new LinkLabel();
+            panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel1.SuspendLayout();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(224, 82);
+            label1.Name = "label1";
+            label1.Size = new Size(159, 40);
+            label1.TabIndex = 7;
+            label1.Text = "Sobre Nós";
+            // 
+            // panel2
+            // 
+            panel2.BackColor = Color.FromArgb(249, 244, 239);
+            panel2.BorderStyle = BorderStyle.FixedSingle;
+            panel2.Controls.Add(pictureBox1);
+            panel2.Location = new Point(29, 137);
+            panel2.Name = "panel2";
+            panel2.Size = new Size(543, 397);
+            panel2.TabIndex = 6;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(11, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(519, 374);
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.FromArgb(238, 189, 145);
+            panel1.Controls.Add(linkLabel4);
+            panel1.Controls.Add(button2);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(linkLabel3);
+            panel1.Controls.Add(linkLabel2);
+            panel1.Controls.Add(linkLabel1);
+            panel1.Location = new Point(-4, -1);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(608, 61);
+            panel1.TabIndex = 5;
+            // 
+            // linkLabel4
+            // 
+            linkLabel4.ActiveLinkColor = Color.SaddleBrown;
+            linkLabel4.AutoSize = true;
+            linkLabel4.DisabledLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel4.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
+            linkLabel4.LinkBehavior = LinkBehavior.NeverUnderline;
+            linkLabel4.LinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel4.Location = new Point(394, 20);
+            linkLabel4.Name = "linkLabel4";
+            linkLabel4.Size = new Size(67, 20);
+            linkLabel4.TabIndex = 23;
+            linkLabel4.TabStop = true;
+            linkLabel4.Text = "CANTOR";
+            linkLabel4.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel4.LinkClicked += linkLabel4_LinkClicked;
+            // 
+            // button2
+            // 
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button2.ForeColor = Color.White;
+            button2.Location = new Point(556, 8);
+            button2.Name = "button2";
+            button2.Size = new Size(40, 43);
+            button2.TabIndex = 5;
+            button2.Text = "↩";
+            button2.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            button1.BackColor = Color.FromArgb(238, 189, 145);
+            button1.BackgroundImage = (Image)resources.GetObject("button1.BackgroundImage");
+            button1.FlatStyle = FlatStyle.Flat;
+            button1.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button1.ForeColor = Color.White;
+            button1.Location = new Point(509, 9);
+            button1.Name = "button1";
+            button1.Size = new Size(40, 41);
+            button1.TabIndex = 22;
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // linkLabel3
+            // 
+            linkLabel3.ActiveLinkColor = Color.SaddleBrown;
+            linkLabel3.AutoSize = true;
+            linkLabel3.DisabledLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel3.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
+            linkLabel3.LinkBehavior = LinkBehavior.NeverUnderline;
+            linkLabel3.LinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel3.Location = new Point(282, 21);
+            linkLabel3.Name = "linkLabel3";
+            linkLabel3.Size = new Size(73, 20);
+            linkLabel3.TabIndex = 20;
+            linkLabel3.TabStop = true;
+            linkLabel3.Text = "MÚSICAS";
+            linkLabel3.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel3.LinkClicked += linkLabel3_LinkClicked;
+            // 
+            // linkLabel2
+            // 
+            linkLabel2.ActiveLinkColor = Color.SaddleBrown;
+            linkLabel2.AutoSize = true;
+            linkLabel2.DisabledLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
+            linkLabel2.LinkBehavior = LinkBehavior.NeverUnderline;
+            linkLabel2.LinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel2.Location = new Point(152, 21);
+            linkLabel2.Name = "linkLabel2";
+            linkLabel2.Size = new Size(89, 20);
+            linkLabel2.TabIndex = 21;
+            linkLabel2.TabStop = true;
+            linkLabel2.Text = "SOBRE NÓS";
+            linkLabel2.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.ActiveLinkColor = Color.SaddleBrown;
+            linkLabel1.AutoSize = true;
+            linkLabel1.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            linkLabel1.LinkBehavior = LinkBehavior.NeverUnderline;
+            linkLabel1.LinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel1.Location = new Point(53, 21);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(53, 20);
+            linkLabel1.TabIndex = 19;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "INÍCIO";
+            linkLabel1.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked_1;
+            // 
+            // SobreNosAdm
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.White;
+            ClientSize = new Size(600, 568);
+            Controls.Add(label1);
+            Controls.Add(panel2);
+            Controls.Add(panel1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
+            Name = "SobreNosAdm";
+            Text = "Entre Acordes - Sobre Nós (ADM)";
+            panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
+        private Panel panel2;
+        private PictureBox pictureBox1;
+        private Panel panel1;
+        private Button button2;
+        private LinkLabel linkLabel4;
+        private Button button1;
+        private LinkLabel linkLabel3;
+        private LinkLabel linkLabel2;
+        private LinkLabel linkLabel1;
     }
 }

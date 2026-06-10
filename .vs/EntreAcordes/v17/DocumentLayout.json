@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\musicaadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\musicaadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\homepageadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\homepageadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\homepageadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\homepageadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\sobrenosadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\sobrenosadm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|c:\\users\\kathelyn.csantana\\documents\\software - allan\\c# (csharp)\\entre acordes\\programa\\entreacordes\\entreacordes\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5EAA732-8373-4AB3-A8D7-897814BCFD74}|EntreAcordes\\EntreAcordes.csproj|solutionrelative:entreacordes\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Homepage.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\Homepage.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Homepage.cs",
+              "RelativeToolTip": "EntreAcordes\\Homepage.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:45:00.52Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Homepage.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\Homepage.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Homepage.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\Homepage.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:38:16.892Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SobreNosAdm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\SobreNosAdm.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\SobreNosAdm.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\SobreNosAdm.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\SobreNosAdm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:04:55.412Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicaAdm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\MusicaAdm.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\MusicaAdm.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\MusicaAdm.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\MusicaAdm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:07:51.509Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomepageAdm.cs",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\HomepageAdm.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\HomepageAdm.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\HomepageAdm.cs",
+              "RelativeToolTip": "EntreAcordes\\HomepageAdm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:07:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musicas.cs",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Musicas.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\Musicas.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Musicas.cs",
+              "RelativeToolTip": "EntreAcordes\\Musicas.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:04:24.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomepageAdm.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\HomepageAdm.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\HomepageAdm.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\HomepageAdm.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\HomepageAdm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:02:34.361Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musicas.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Musicas.cs",
+              "RelativeDocumentMoniker": "EntreAcordes\\Musicas.cs",
+              "ToolTip": "C:\\Users\\kathelyn.csantana\\Documents\\Software - Allan\\C# (CSHARP)\\Entre Acordes\\Programa\\entreAcordes\\EntreAcordes\\Musicas.cs [Projeto]",
+              "RelativeToolTip": "EntreAcordes\\Musicas.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T20:02:14.247Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

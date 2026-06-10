@@ -19,6 +19,7 @@ namespace EntreAcordes
         CadastrarIns cadIns;
         Sobrenos sobre;
         Musicas musc;
+        musicaTetoVidro tetoVidro;
 
         public Homepage()
         {
@@ -38,6 +39,7 @@ namespace EntreAcordes
         //Link de acesso à Tela Sobre Nós
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            //Redirecionando para a tela Sobre Nós...
             sobre = new Sobrenos();
             sobre.ShowDialog();
 
@@ -46,10 +48,20 @@ namespace EntreAcordes
         //Link de acesso à Tela de Músicas
         private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
+            //Redirecionando para a tela de Música...
             musc = new Musicas();
             musc.ShowDialog();
 
         }//Fim do Link de acesso à Tela de Músicas
 
+        //Botão Ver Música (Teto de Vidro)
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Redirecionando para a tela da Letra da Música...
+            tetoVidro = new musicaTetoVidro();
+            tetoVidro.ShowDialog();
+
+        }//Fim do Botão Ver Música (Teto de Vidro)
+        
     }//Fim da Tela Homepage
 }//Fim do Projeto Entre Acordes
