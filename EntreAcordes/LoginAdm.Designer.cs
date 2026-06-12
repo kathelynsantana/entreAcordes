@@ -34,15 +34,13 @@
             label4 = new Label();
             label3 = new Label();
             maskedTextBox2 = new MaskedTextBox();
-            maskedTextBox1 = new MaskedTextBox();
             button2 = new Button();
             button1 = new Button();
             label2 = new Label();
             label1 = new Label();
             label6 = new Label();
-            label7 = new Label();
-            maskedTextBox3 = new MaskedTextBox();
             linkLabel2 = new LinkLabel();
+            maskedTextBox1 = new MaskedTextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -93,14 +91,6 @@
             maskedTextBox2.Size = new Size(168, 23);
             maskedTextBox2.TabIndex = 18;
             // 
-            // maskedTextBox1
-            // 
-            maskedTextBox1.BorderStyle = BorderStyle.FixedSingle;
-            maskedTextBox1.Location = new Point(365, 170);
-            maskedTextBox1.Name = "maskedTextBox1";
-            maskedTextBox1.Size = new Size(168, 23);
-            maskedTextBox1.TabIndex = 17;
-            // 
             // button2
             // 
             button2.BackColor = Color.FromArgb(111, 43, 10);
@@ -121,7 +111,7 @@
             button1.FlatStyle = FlatStyle.Popup;
             button1.Font = new Font("Segoe UI Semibold", 10.25F, FontStyle.Bold);
             button1.ForeColor = Color.White;
-            button1.Location = new Point(374, 293);
+            button1.Location = new Point(368, 253);
             button1.Name = "button1";
             button1.Size = new Size(114, 29);
             button1.TabIndex = 15;
@@ -133,7 +123,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label2.Location = new Point(311, 243);
+            label2.Location = new Point(309, 207);
             label2.Name = "label2";
             label2.Size = new Size(55, 20);
             label2.TabIndex = 14;
@@ -143,7 +133,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label1.Location = new Point(310, 206);
+            label1.Location = new Point(308, 172);
             label1.Name = "label1";
             label1.Size = new Size(56, 20);
             label1.TabIndex = 13;
@@ -153,29 +143,11 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label6.Location = new Point(326, 348);
+            label6.Location = new Point(326, 339);
             label6.Name = "label6";
             label6.Size = new Size(195, 20);
             label6.TabIndex = 22;
             label6.Text = "Ainda não possui cadastro?";
-            // 
-            // label7
-            // 
-            label7.AutoSize = true;
-            label7.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
-            label7.Location = new Point(311, 172);
-            label7.Name = "label7";
-            label7.Size = new Size(54, 20);
-            label7.TabIndex = 23;
-            label7.Text = "Cargo:";
-            // 
-            // maskedTextBox3
-            // 
-            maskedTextBox3.BorderStyle = BorderStyle.FixedSingle;
-            maskedTextBox3.Location = new Point(365, 241);
-            maskedTextBox3.Name = "maskedTextBox3";
-            maskedTextBox3.Size = new Size(168, 23);
-            maskedTextBox3.TabIndex = 24;
             // 
             // linkLabel2
             // 
@@ -184,7 +156,7 @@
             linkLabel2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel2.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel2.LinkColor = Color.FromArgb(107, 35, 14);
-            linkLabel2.Location = new Point(308, 375);
+            linkLabel2.Location = new Point(308, 366);
             linkLabel2.Name = "linkLabel2";
             linkLabel2.Size = new Size(234, 20);
             linkLabel2.TabIndex = 25;
@@ -193,15 +165,21 @@
             linkLabel2.VisitedLinkColor = Color.FromArgb(107, 35, 14);
             linkLabel2.LinkClicked += linkLabel2_LinkClicked;
             // 
+            // maskedTextBox1
+            // 
+            maskedTextBox1.BorderStyle = BorderStyle.FixedSingle;
+            maskedTextBox1.Location = new Point(365, 170);
+            maskedTextBox1.Name = "maskedTextBox1";
+            maskedTextBox1.Size = new Size(168, 23);
+            maskedTextBox1.TabIndex = 17;
+            // 
             // LoginAdm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(584, 423);
+            ClientSize = new Size(584, 411);
             Controls.Add(linkLabel2);
-            Controls.Add(maskedTextBox3);
-            Controls.Add(label7);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -228,14 +206,12 @@
         private Label label4;
         private Label label3;
         private MaskedTextBox maskedTextBox2;
-        private MaskedTextBox maskedTextBox1;
         private Button button2;
         private Button button1;
         private Label label2;
         private Label label1;
         private Label label6;
-        private Label label7;
-        private MaskedTextBox maskedTextBox3;
         private LinkLabel linkLabel2;
+        private MaskedTextBox maskedTextBox1;
     }
 }

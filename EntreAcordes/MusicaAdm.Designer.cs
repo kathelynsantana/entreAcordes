@@ -30,12 +30,12 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MusicaAdm));
             panel1 = new Panel();
+            button4 = new Button();
             linkLabel4 = new LinkLabel();
             button1 = new Button();
             linkLabel2 = new LinkLabel();
             linkLabel3 = new LinkLabel();
             linkLabel1 = new LinkLabel();
-            button4 = new Button();
             panel4 = new Panel();
             button3 = new Button();
             label13 = new Label();
@@ -69,6 +69,18 @@
             panel1.Size = new Size(608, 61);
             panel1.TabIndex = 11;
             // 
+            // button4
+            // 
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = Color.White;
+            button4.Location = new Point(551, 8);
+            button4.Name = "button4";
+            button4.Size = new Size(40, 43);
+            button4.TabIndex = 12;
+            button4.Text = "↩";
+            button4.UseVisualStyleBackColor = true;
+            // 
             // linkLabel4
             // 
             linkLabel4.ActiveLinkColor = Color.SaddleBrown;
@@ -77,13 +89,14 @@
             linkLabel4.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel4.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel4.LinkColor = Color.FromArgb(111, 62, 17);
-            linkLabel4.Location = new Point(380, 20);
+            linkLabel4.Location = new Point(400, 20);
             linkLabel4.Name = "linkLabel4";
             linkLabel4.Size = new Size(67, 20);
             linkLabel4.TabIndex = 18;
             linkLabel4.TabStop = true;
             linkLabel4.Text = "CANTOR";
             linkLabel4.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel4.LinkClicked += linkLabel4_LinkClicked;
             // 
             // button1
             // 
@@ -106,13 +119,14 @@
             linkLabel2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel2.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel2.LinkColor = Color.FromArgb(111, 62, 17);
-            linkLabel2.Location = new Point(138, 21);
+            linkLabel2.Location = new Point(158, 21);
             linkLabel2.Name = "linkLabel2";
             linkLabel2.Size = new Size(89, 20);
             linkLabel2.TabIndex = 4;
             linkLabel2.TabStop = true;
             linkLabel2.Text = "SOBRE NÓS";
             linkLabel2.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel2.LinkClicked += linkLabel2_LinkClicked;
             // 
             // linkLabel3
             // 
@@ -122,7 +136,7 @@
             linkLabel3.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel3.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel3.LinkColor = Color.FromArgb(111, 62, 17);
-            linkLabel3.Location = new Point(268, 21);
+            linkLabel3.Location = new Point(288, 21);
             linkLabel3.Name = "linkLabel3";
             linkLabel3.Size = new Size(73, 20);
             linkLabel3.TabIndex = 3;
@@ -137,25 +151,14 @@
             linkLabel1.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             linkLabel1.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel1.LinkColor = Color.FromArgb(111, 62, 17);
-            linkLabel1.Location = new Point(39, 21);
+            linkLabel1.Location = new Point(59, 21);
             linkLabel1.Name = "linkLabel1";
             linkLabel1.Size = new Size(53, 20);
             linkLabel1.TabIndex = 1;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "INÍCIO";
             linkLabel1.VisitedLinkColor = Color.FromArgb(111, 62, 17);
-            // 
-            // button4
-            // 
-            button4.FlatStyle = FlatStyle.Flat;
-            button4.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.ForeColor = Color.White;
-            button4.Location = new Point(551, 8);
-            button4.Name = "button4";
-            button4.Size = new Size(40, 43);
-            button4.TabIndex = 12;
-            button4.Text = "↩";
-            button4.UseVisualStyleBackColor = true;
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // panel4
             // 
@@ -165,7 +168,7 @@
             panel4.Controls.Add(label9);
             panel4.Controls.Add(label10);
             panel4.Controls.Add(pictureBox2);
-            panel4.Location = new Point(42, 224);
+            panel4.Location = new Point(42, 253);
             panel4.Name = "panel4";
             panel4.Size = new Size(517, 100);
             panel4.TabIndex = 13;
@@ -233,7 +236,7 @@
             panel3.Controls.Add(label7);
             panel3.Controls.Add(pictureBox1);
             panel3.Controls.Add(button2);
-            panel3.Location = new Point(42, 99);
+            panel3.Location = new Point(42, 128);
             panel3.Name = "panel3";
             panel3.Size = new Size(517, 100);
             panel3.TabIndex = 12;

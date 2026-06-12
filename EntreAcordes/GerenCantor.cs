@@ -19,6 +19,8 @@ namespace EntreAcordes
         SobreNosAdm sobre;
         MusicaAdm musica;
         CadastarCan cadCan;
+        AtuCantor atualizar;
+        ExcCantor excluir;
 
         public GerenCantor()
         {
@@ -56,10 +58,47 @@ namespace EntreAcordes
         //Botão para acessar a Tela de Cadastro do Cantor
         private void button2_Click(object sender, EventArgs e)
         {
-            //Redirecionando para a Área de Cadastro do Inscrito...
+            //Redirecionando para a Área de Cadastro do Cantor...
             cadCan = new CadastarCan();
             cadCan.ShowDialog();
 
         }//Fim do Botão para acessar a Tela de Cadastro do Cantor
+
+        //Botão de Atualizar Cantor
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //Redirecionando para a Área de Atualização do Cantor...
+            atualizar = new AtuCantor();
+            atualizar.ShowDialog();
+
+        }//Fim do Botão de Atualizar Cantor
+
+        //Botão de Excluir Cantor
+        private void button4_Click(object sender, EventArgs e)
+        {
+            //Redirecionando para a Área de Exclusão do Cantor...
+            excluir = new ExcCantor();
+            excluir.ShowDialog();
+
+        }//Fim do Botão de Excluir Cantor
+
+        //Botão de Atualizar Cantor
+        private void button6_Click(object sender, EventArgs e)
+        {
+            //Redirecionando para a Área de Atualização do Cantor...
+            atualizar = new AtuCantor();
+            atualizar.ShowDialog();
+
+        }//Fim do Botão de Atualizar Cantor
+
+        //Botão de Excluir Cantor
+        private void button5_Click(object sender, EventArgs e)
+        {
+            //Redirecionando para a Área de Exclusão do Cantor...
+            excluir = new ExcCantor();
+            excluir.ShowDialog();
+
+        }//Fim do Botão de Excluir Cantor
+
     }//Fim da Tela Cantor
 }//Fim do Projeto Entre Acordes

@@ -48,6 +48,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.SaddleBrown;
             label1.Location = new Point(224, 82);
             label1.Name = "label1";
             label1.Size = new Size(159, 40);
@@ -162,6 +163,7 @@
             linkLabel2.TabStop = true;
             linkLabel2.Text = "SOBRE NÓS";
             linkLabel2.VisitedLinkColor = Color.FromArgb(111, 62, 17);
+            linkLabel2.LinkClicked += linkLabel2_LinkClicked;
             // 
             // linkLabel1
             // 

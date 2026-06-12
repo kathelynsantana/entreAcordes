@@ -35,9 +35,9 @@
             linkLabel3 = new LinkLabel();
             linkLabel1 = new LinkLabel();
             button1 = new Button();
+            label1 = new Label();
             panel2 = new Panel();
             pictureBox1 = new PictureBox();
-            label1 = new Label();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
@@ -65,10 +65,10 @@
             linkLabel2.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold);
             linkLabel2.LinkBehavior = LinkBehavior.NeverUnderline;
             linkLabel2.LinkColor = Color.FromArgb(111, 62, 17);
-            linkLabel2.Location = new Point(199, 21);
+            linkLabel2.Location = new Point(197, 21);
             linkLabel2.Name = "linkLabel2";
             linkLabel2.Size = new Size(89, 20);
-            linkLabel2.TabIndex = 6;
+            linkLabel2.TabIndex = 7;
             linkLabel2.TabStop = true;
             linkLabel2.Text = "SOBRE NÓS";
             linkLabel2.VisitedLinkColor = Color.FromArgb(111, 62, 17);
@@ -133,15 +133,26 @@
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.SaddleBrown;
+            label1.Location = new Point(224, 82);
+            label1.Name = "label1";
+            label1.Size = new Size(159, 40);
+            label1.TabIndex = 4;
+            label1.Text = "Sobre Nós";
+            // 
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(249, 244, 239);
             panel2.BorderStyle = BorderStyle.FixedSingle;
             panel2.Controls.Add(pictureBox1);
-            panel2.Location = new Point(29, 137);
+            panel2.Location = new Point(29, 136);
             panel2.Name = "panel2";
             panel2.Size = new Size(543, 397);
-            panel2.TabIndex = 3;
+            panel2.TabIndex = 5;
             // 
             // pictureBox1
             // 
@@ -152,24 +163,14 @@
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Segoe UI", 21.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(224, 82);
-            label1.Name = "label1";
-            label1.Size = new Size(159, 40);
-            label1.TabIndex = 4;
-            label1.Text = "Sobre Nós";
-            // 
             // Sobrenos
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(600, 568);
-            Controls.Add(label1);
             Controls.Add(panel2);
+            Controls.Add(label1);
             Controls.Add(panel1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Sobrenos";
@@ -188,10 +189,10 @@
         private LinkLabel linkLabel3;
         private LinkLabel linkLabel1;
         private Button button1;
-        private Panel panel2;
         private Label label1;
         private Button button2;
         private LinkLabel linkLabel2;
+        private Panel panel2;
         private PictureBox pictureBox1;
     }
 }

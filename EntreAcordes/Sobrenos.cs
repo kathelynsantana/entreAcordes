@@ -21,6 +21,7 @@ namespace EntreAcordes
 
         public Sobrenos()
         {
+            //Inicializando...
             InitializeComponent();
         }
 

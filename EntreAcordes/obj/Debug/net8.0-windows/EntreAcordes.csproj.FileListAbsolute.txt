@@ -91,3 +91,8 @@ C:\Users\kathelyn.csantana\Documents\Software - Allan\C# (CSHARP)\Entre Acordes\
 C:\Users\kathelyn.csantana\Documents\Software - Allan\C# (CSHARP)\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.musicaTetoVidro.resources
 C:\Users\kathelyn.csantana\Documents\Software - Allan\C# (CSHARP)\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.GerenCantor.resources
 C:\Users\kathelyn.csantana\Documents\Software - Allan\C# (CSHARP)\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadAdm.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.AtuCantor.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.CadAdm.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.ExcCantor.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.GerenCantor.resources
+C:\Users\kathe\OneDrive\Desktop\Cursos\Curso de TI (TI23T)\Software - Allan\C#\Entre Acordes\Programa\entreAcordes\EntreAcordes\obj\Debug\net8.0-windows\EntreAcordes.musicaTetoVidro.resources

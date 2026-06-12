@@ -30,7 +30,7 @@ namespace EntreAcordes
         private void button1_Click(object sender, EventArgs e)
         {
             //Verificando se os campos estão vazios...
-            if ((maskedTextBox1.Text == "") || (maskedTextBox2.Text == "") || (maskedTextBox3.Text == ""))
+            if ((maskedTextBox1.Text == "") || (maskedTextBox2.Text == ""))
             {
                 //Se algum campo estiver vazio...
                 MessageBox.Show("Por favor, preencha todos os campos para realizar o login!");
@@ -38,12 +38,11 @@ namespace EntreAcordes
             }//Fim do if
 
             //Variáveis para receber os dados
-            string cargo = maskedTextBox1.Text;
-            string email = maskedTextBox2.Text;
+            string email = maskedTextBox1.Text;
             string senha = maskedTextBox2.Text;
 
             //Chamando o método de validação de login...
-            this.adm.loginAdm(maskedTextBox1.Text, maskedTextBox2.Text, maskedTextBox3.Text);
+            this.adm.loginAdm(maskedTextBox1.Text, maskedTextBox2.Text);
 
         }//Fim do Botão de Login
 

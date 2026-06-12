@@ -161,7 +161,7 @@
             button1.FlatStyle = FlatStyle.Popup;
             button1.Font = new Font("Segoe UI Semibold", 10.25F, FontStyle.Bold);
             button1.ForeColor = Color.White;
-            button1.Location = new Point(372, 327);
+            button1.Location = new Point(372, 328);
             button1.Name = "button1";
             button1.Size = new Size(104, 29);
             button1.TabIndex = 36;
@@ -189,7 +189,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(584, 450);
+            BackColor = Color.White;
+            ClientSize = new Size(584, 442);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
             Controls.Add(pictureBox1);

@@ -22,6 +22,7 @@ namespace EntreAcordes
 
         public SobreNosAdm()
         {
+            //Inicializando...
             InitializeComponent();
         }
 
@@ -61,5 +62,9 @@ namespace EntreAcordes
 
         }//Fim do Botão para acessar a Tela de Cadastro do Inscrito
 
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }//Fim da Tela "Sobre Nós" (ADM)
 }//Fim do Projeto Entre Acordes

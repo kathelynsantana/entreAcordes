@@ -12,6 +12,9 @@ namespace EntreAcordes
     //Entidade: ADM
     class DAOAdm
     {
+        //Variáveis de Entidades
+        HomepageAdm homepage;
+
         //Variáveis
         public string dados;
         public string comando;
@@ -58,7 +61,7 @@ namespace EntreAcordes
             {
                 //Configurando o comando de inserção de dados no banco de dados...
                 this.dados   = $"('', '{nome}', '{cargo}', '{email}','{senha}')";
-                this.comando = $"insert into cantor(codigo, nome, cargo, email, senha) values{this.dados}";
+                this.comando = $"insert into adm(codigo, nome, cargo, email, senha) values{this.dados}";
 
                 //Inserindo e executando o comando no banco de dados...
                 MySqlCommand sql = new MySqlCommand(this.comando, this.conexao);
@@ -180,7 +183,7 @@ namespace EntreAcordes
         }//Fim do Consultar Senha
 
         //Login
-        public void loginAdm(string cargo, string email, string senha)
+        public void loginAdm(string email, string senha)
         {
             //Preenchendo todos os dados do vetor...
             preencherVetor();
@@ -188,17 +191,21 @@ namespace EntreAcordes
             for (i = 0; i < this.contar; i++)
             {
                 //Verificando se o e-mail e senha são válidos...
-                if ((this.cargo[i] == cargo) && (this.email[i] == email) && (this.senha[i] == senha))
+                if ((this.email[i] == email) && (this.senha[i] == senha))
                 {
                     //Se o cargo, o e-mail e a senha forem válidos...
                     MessageBox.Show("Login realizado com sucesso!");
                     MessageBox.Show("Bem-vindo(a)!");
-                    return;//Encerrando o processo de login
+
+                    //Redirecionando para a Área de Compras...
+                    homepage = new HomepageAdm();
+                    homepage.ShowDialog();
+                    return;//Encerrando o processo de logins
 
                 }//Fim do if
             }//Fim do for
 
-            //Se o cargo, e-mail e/ou a senha não forem válidos...
+            //Se o e-mail e/ou a senha não forem válidos...
             MessageBox.Show("E-mail ou senha incorretos!");
 
         }//Fim do Login
